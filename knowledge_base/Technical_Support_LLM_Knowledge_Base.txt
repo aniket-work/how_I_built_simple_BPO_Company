@@ -1,0 +1,37 @@
+Meters:
+- Analog Meter Reading Guide: Look at the meter from eye level. The dials rotate clockwise. Read from right to left, writing down the last digit the pointer has passed on each dial. If the pointer is directly on a number, record the lower number. Ignore the dial that measures in 100,000s. This gives you the total kWh used.
+- Digital Meter Reading Guide: Digital meters display 5 or 6 digits, constantly cycling. Write down the digits from left to right, ignoring any blank/blinking digits. This number shows the total kWh consumption.  
+- Smart Meter (AMI) Overview: Smart meters use low-power radio to transmit usage data to the utility every 15 mins. They can be read remotely and allow two-way digital communication. Customers can view real-time data via online portal.
+- Smart Meter Troubleshooting FAQ: If display is blank, check breaker. If numeric display is flashing repeatedly, the meter may need to be reset or replaced. Issues connecting to wifi or online account can often be resolved by rebooting router.
+- Analog Meter Reading Tip: If the analog dial appears stuck or meter is old/damaged, gently spin the dial counterclockwise a full rotation before taking the reading.
+
+Energy Efficiency: 
+- Home Energy Audit Process: An auditor will inspect insulation, windows, appliances and complete indoor air tests. You'll receive a report detailing energy losses and recommended upgrades like weather-stripping, new HVAC filters, etc.
+- Appliance Rebates Listing: $75 rebate for ENERGY STAR certified refrigerators, $50 for washers, $25 for room ACs, etc. See website for current year's list.
+- Home Improvement Rebates Listing: 20% rebate for attic insulation, 15% for new double-pane windows, $100 rebate for smart/programmable thermostat installation.
+- Residential Energy Saving Tips: Use programmmable thermostat - set it higher in summer. Replace HVAC air filters. Wash clothes in cold water. Use LED bulbs. Unplug devices when not in use. Caulk/weatherstrip windows and doors.
+- Energy Saving Tip for Summer: Close blinds/curtains during peak daytime hours to keep indoor temperatures lower and reduce AC usage.
+
+Renewable Energy:
+- Residential Solar Program Details: Net metering allows you to get credited on your bill for excess solar sent back to the grid. 30% tax credit available on installation costs. Pre-approved contractors and 20-year warranty.
+- Community Solar Program: Subscribe for a share of a local solar farm and get credits on your monthly bill based on your share's output, without installing anything at your home. 
+- Renewable Energy Certificate (REC) Purchasing: RECs represent 1 MWh of renewable electricity added to the grid. You can purchase RECs to offset your usage and support renewable projects.
+- Solar Panel Maintenance Tip: Use a soft brush and water to gently wipe off any dust, leaves or debris from your panels a few times per year.
+
+Electric Vehicles:
+- EV Rate Plans: EV TOU rate charges just $0.08/kWh for overnight charging between 11pm-7am. Otherwise, regular residential rates apply.
+- Home EV Charging Guide: Level 2 chargers require 240V outlet, permit, and possibly an electrical service upgrade depending on your panel's capacity. Installation costs $500-2000.
+- Public EV Charging Network: Our ChargeNow network has over 250 level 2 and DC fast charging stations across the state. See map on website/app.
+- EV Battery Tip: Set your EV to charge at times when electricity rates are lowest overnight. Also, try not to let your battery charge get below 20%.
+
+Power Quality & Safety: 
+- Voltage Fluctuation Causes & Solutions: Fluctuations can be caused by faulty wiring, issues with the utility's equipment like transformers, or electrical overloads. Call us to investigate.
+- Electrical Hazard Identification & Reporting: Do not approach any downed, sparking or arcing power lines. Call 911 and our hotline immediately to report the location.
+- Residential Electrical Safety Tips: Never use indoor-rated extension cords outdoors. Don't overload outlets/circuits. Have your electrical panel and wiring inspected every 10 years.  
+- Safety Tip for Power Outages: Unplug major appliances and electronics before power is restored to prevent damage from electrical surges. Operate generators outdoors and away from windows.
+
+Emerging Technologies:
+- Residential Energy Storage Systems: Lithium-ion battery storage allows you to store solar power or buy off-peak electricity for use later. Costs $5,000-10,000+ after incentives.
+- Smart Home Technology Integration: Our SmartSave program lets you connect thermostats, appliances and more to an energy management system via your Wi-Fi to optimize usage.  
+- Grid Modernization Initiatives: We're investing in smart meters, grid sensors, automated distribution controls and utility-scale battery storage to improve reliability and efficiency.
+- Smart Thermostat Tip: Program your smart thermostat to automatically raise or lower temp when you're away to minimize heating/cooling of an empty home.
